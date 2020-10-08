@@ -4,5 +4,8 @@
   "integrations": {
     "cordova": {},
     "capacitor": {}
+  },
+  "hooks": {
+    "build:after": "./attach-source-maps.js"
   }
 }
