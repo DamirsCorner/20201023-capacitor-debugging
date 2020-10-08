@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "capacitor-app"
+		},
+		{
+			"path": "cordova-app"
+		}
+	]
+}
